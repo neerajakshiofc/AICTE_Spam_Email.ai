@@ -1,3 +1,5 @@
+Here’s an updated **GitHub README** for **AICTE\_Spam\_Email.ai** including sections for **video demo** and **images/screenshots**:
+
 ---
 
 # 📧 AICTE\_Spam\_Email.ai
@@ -14,21 +16,18 @@
 * **Accuracy & Reliability** ✅ – Uses trained models to minimize false positives and negatives.
 
 ---
-🛠 Technology Stack
 
-Programming Language: Python
+## 🛠 Technology Stack
 
-Libraries & Frameworks:
+* **Programming Language**: Python
+* **Libraries & Frameworks**:
 
-scikit-learn – Machine learning algorithms
+  * **scikit-learn** – Machine learning algorithms
+  * **pandas & numpy** – Data processing
+  * **NLTK / spaCy** – Natural language processing
+* **Data Storage**: CSV / Dataset files
+* **Model**: ML models like Naive Bayes, Logistic Regression, or Decision Trees
 
-pandas & numpy – Data processing
-
-NLTK / spaCy – Natural language processing
-
-Data Storage: CSV / Dataset files
-
-Model: ML models like Naive Bayes, Logistic Regression, or Decision Trees
 ---
 
 ## 💡 How It Works
@@ -45,7 +44,7 @@ Model: ML models like Naive Bayes, Logistic Regression, or Decision Trees
 
 Watch the project in action:
 
-[https://www.linkedin.com/posts/koppisetty-neerajakshi_ai-artificialintelligence-internship-activity-7271388841456873472-ZUYm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhhOvcBxwnNfwLfn4suLJH0VvOnnxVjf6A]
+![https://www.linkedin.com/posts/koppisetty-neerajakshi_ai-artificialintelligence-internship-activity-7271388841456873472-ZUYm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhhOvcBxwnNfwLfn4suLJH0VvOnnxVjf6A]
 
 ---
 
@@ -80,3 +79,4 @@ AICTE_Spam_Email.ai/
 * Expand dataset to cover **more educational spam sources**.
 
 ---
+
