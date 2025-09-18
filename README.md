@@ -1,4 +1,3 @@
-Here’s an updated **GitHub README** for **AICTE\_Spam\_Email.ai** including sections for **video demo** and **images/screenshots**:
 
 ---
 
